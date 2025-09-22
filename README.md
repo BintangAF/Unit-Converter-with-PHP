@@ -3,10 +3,10 @@ A simple project to convert units (length, weight, and temperature) using PHP.
 This project was created as an exercise in implementing conversion formulas from one unit to another in programming code.
 
 ## Features
-- Length Conversion (Milimeter ↔ Centimeter ↔ Inch, etc)\
-- Weight Conversion (Gram ↔ Kilogram ↔ Pound, etc)\
-- Temperature Conversion (Celcius ↔ Fahrenheit ↔ Kelvin)\
-- Simple & Responsive Interface with Tailwind CSS\
+- Length Conversion (Milimeter ↔ Centimeter ↔ Inch, etc)
+- Weight Conversion (Gram ↔ Kilogram ↔ Pound, etc)
+- Temperature Conversion (Celcius ↔ Fahrenheit ↔ Kelvin)
+- Simple & Responsive Interface with Tailwind CSS
 
 ## Technology
 - PHP 8+
@@ -19,7 +19,7 @@ This project was created as an exercise in implementing conversion formulas from
 3. Move folder in `htdocs`
 4. Run this in terminal `npm install`
 5. Run Apache from XAMPP
-6. Open in browser `http://localhost/Unit-Converter-with-PHP`\
+6. Open in browser `http://localhost/Unit-Converter-with-PHP`
 
 ## Customize Interface
 If you want to customize the website design, run this command in terminal `npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch`
