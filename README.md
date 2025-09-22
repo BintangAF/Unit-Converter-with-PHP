@@ -1,8 +1,8 @@
-# Unit Converter PHP\
+# Unit Converter PHP
 A simple project to convert units (length, weight, and temperature) using PHP.
 This project was created as an exercise in implementing conversion formulas from one unit to another in programming code.
 
-## Fitur\
+## Features
 - Length Conversion (Milimeter ↔ Centimeter ↔ Inch, etc)\
 - Weight Conversion (Gram ↔ Kilogram ↔ Pound, etc)\
 - Temperature Conversion (Celcius ↔ Fahrenheit ↔ Kelvin)\
@@ -21,7 +21,7 @@ This project was created as an exercise in implementing conversion formulas from
 5. Run Apache from XAMPP
 6. Open in browser `http://localhost/Unit-Converter-with-PHP`\
 
-## Customize Interface\
+## Customize Interface
 If you want to customize the website design, run this command in terminal `npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch`
 
 
