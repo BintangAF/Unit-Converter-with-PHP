@@ -1,11 +1,7 @@
 # Unit Converter PHP
-A simple project for converting units of length, weight and temperature using PHP.
-This project was created as a practice exercise for implementing conversion formulas in programming.
-
-<p align="center">
-       <img src="screenshot_home.png" alt="Home Page" width="45%">
-       <img src="screenshot_result.png" alt="Conversion Result" width="45%">
-</p>
+A simple project for converting units of length, weight and temperature using PHP.  
+This project was created as a practice exercise for implementing conversion formulas in programming.  
+Based on the [Unit Converter project from roadmap.sh](https://roadmap.sh/projects/unit-converter).  
  
 ## Features
 - Length Conversion (Milimeter ↔ Centimeter ↔ Inch, etc)
@@ -40,3 +36,12 @@ If you want to customize the design with Tailwind CSS, run the following command
 npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch
 ```
 
+## Preview
+<p align="center">
+       <img src="screenshot_home.png" alt="Home Page" width="45%">
+       <img src="screenshot_result.png" alt="Conversion Result" width="45%">
+</p>
+
+## Acknowledgement
+- Project idea from [roadmap.sh](roadmap.sh)
+- Original challenge: [Unit Converter Project](https://roadmap.sh/projects/unit-converter)
