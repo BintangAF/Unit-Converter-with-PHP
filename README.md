@@ -2,6 +2,11 @@
 A simple project for converting units of length, weight and temperature using PHP.
 This project was created as a practice exercise for implementing conversion formulas in programming.
 
+<p align="center">
+       <img src="screenshot_home.png" alt="Home Page" width="45%">
+       <img src="screenshot_result.png" alt="Conversion Result" width="45%">
+</p>
+ 
 ## Features
 - Length Conversion (Milimeter ↔ Centimeter ↔ Inch, etc)
 - Weight Conversion (Gram ↔ Kilogram ↔ Pound, etc)
