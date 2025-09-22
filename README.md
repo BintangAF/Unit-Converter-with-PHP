@@ -15,13 +15,15 @@ This project was created as an exercise in implementing conversion formulas from
 ## How to Run it
 1. Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Clone this repository
-  - Copy & paste this `git clone https://github.com/BintangAF/Unit-Converter-with-PHP.git` in your terminal
+    - Copy & paste this in your terminal
+    `git clone https://github.com/BintangAF/Unit-Converter-with-PHP.git`
 3. Move folder in `htdocs`
 4. Run this in terminal `npm install`
 5. Run Apache from XAMPP
 6. Open in browser `http://localhost/Unit-Converter-with-PHP`
 
 ## Customize Interface
-If you want to customize the website design, run this command in terminal `npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch`
+If you want to customize the website design, run this command in terminal\ 
+`npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch`
 
 
