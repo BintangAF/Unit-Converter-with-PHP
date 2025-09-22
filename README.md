@@ -23,7 +23,7 @@ This project was created as an exercise in implementing conversion formulas from
 6. Open in browser `http://localhost/Unit-Converter-with-PHP`
 
 ## Customize Interface
-If you want to customize the website design, run this command in terminal\ 
+If you want to customize the website design, run this command in terminal\
 `npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/output.css --watch`
 
 
